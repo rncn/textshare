@@ -22,6 +22,29 @@
             document.forms.main.submit();
         }
     </script>
+
+    <meta name="description" content="会員登録せずテキストを簡単に共有しましょう！TextShareなら登録不要です！">
+
+    <!-- Google / Search Engine Tags -->
+    <meta itemprop="name" content="TextShare テキストシェア">
+    <meta itemprop="description" content="会員登録せずテキストを簡単に共有しましょう！TextShareなら登録不要です！">
+    <meta itemprop="image" content="https://textshare.rnicsn.com/ogp.png">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="http://textshare.rnicsn.com">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="TextShare テキストシェア">
+    <meta property="og:description" content="会員登録せずテキストを簡単に共有しましょう！TextShareなら登録不要です！">
+    <meta property="og:image" content="https://textshare.rnicsn.com/ogp.png">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="TextShare テキストシェア">
+    <meta name="twitter:description" content="会員登録せずテキストを簡単に共有しましょう！TextShareなら登録不要です！">
+    <meta name="twitter:image" content="https://textshare.rnicsn.com/ogp.png">
+
+<!-- Meta Tags Generated via http://heymeta.com -->
+
 </head>
 <body>
     <div class="brand-nav">

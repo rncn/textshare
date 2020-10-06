@@ -50,7 +50,7 @@
 <body>
     <div class="brand-nav">
         <p class="powerdby">Powerd by</p>
-        <a href="https://about.rnicsn.com/"><img class="logo" src="https://about.rnicsn.com/logo.svg" alt="logo"></a>
+        <a href="https://about.rnicsn.com/" target="_blank"><img class="logo" src="https://about.rnicsn.com/logo.svg" alt="logo"></a>
     </div>
     <nav class="navbar navbar-light fixed-top">
         <div class="container-fluid">

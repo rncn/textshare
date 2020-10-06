@@ -90,7 +90,8 @@
                         <option value="2">Simple</option>
                     </select>
                 </form>
-                <button type="button" onclick="send();" class="btn btn-success shadow-sm btn-block"><a href="https://about.rnicsn.com/terms.html" target="_blank">利用規約に同意して</a>公開</button>
+                <p><a href="https://about.rnicsn.com/terms.html" target="_blank">利用規約に同意して</a>公開します</p>
+                <button type="button" onclick="send();" class="btn btn-success shadow-sm btn-block">公開</button>
             </div>
             <div id="editor">
                 @if(old('content'))

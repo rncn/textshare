@@ -20,9 +20,6 @@
             const input = document.forms.main.content;
             input.value = container;
             document.forms.main.submit();
-            window.onbeforeunload = function(e) {
-            e.returnValue = "ページを離れようとしています。よろしいですか？";
-            }
         }
     </script>
 

@@ -13,13 +13,14 @@
     <script>
         {{-- ページ遷移時確認 --}}
         window.onbeforeunload = function(e) {
-            return false;
+            //e.returnValue = "ページを離れようとしています。よろしいですか？";
         }
         function send() {
             const container = document.getElementsByClassName('ql-editor')[0].innerHTML;
             const input = document.forms.main.content;
             input.value = container;
             document.forms.main.submit();
+
         }
     </script>
 

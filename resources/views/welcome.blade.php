@@ -63,7 +63,7 @@
     <article>
         <section class="pr">
             <h2 class="pr-text">簡単にテキストを公開・編集</h2>
-            <p class="pr-text">簡単にシンプルなテキストページを作成できます。テキストにスタイルを指定することもできます。<br>シンプルで広告に邪魔されることなくテキストを公開できます。<a href="/sample">サンプル</a></p>
+            <p class="pr-text">簡単にシンプルなテキストページを作成できます。テキストにスタイルを指定することもできます。<br>シンプルで広告に邪魔されることなくテキストを公開できます。<a href="/v/0">サンプル</a></p>
         </section>
         <section class="editor-ui">
             <div class="controll">

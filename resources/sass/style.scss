@@ -1,0 +1,71 @@
+body {
+    margin-bottom: 30px;
+    .brand-nav {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        height: 30px;
+        background-color: #fff;
+        z-index: 1036;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        box-shadow: 0px 0px 4px 1px #dddddd;
+
+        .powerdby {
+            font-size: 10px;
+            font-weight: lighter;
+            line-height: 30px !important;
+            margin: 0 !important;
+            padding: 0;
+        }
+        
+        .logo {
+            height: 30px;
+
+            transition: transform .2s;
+
+            &:hover {
+                transform: scale(1.1) rotate(2deg);
+
+                transition: transform .2s;
+            }
+        }
+    }
+    .blur {
+        backdrop-filter: blur(2px);
+    }
+
+    article {
+        .pr {
+            padding: 120px 10px;
+            background-color: rgb(255, 244, 140);
+
+            h2.pr-text {
+                text-align: center;
+                font-weight: bolder;
+                font-size: 4em;
+            }
+            
+            p.pr-text {
+                text-align: center;
+            }
+        }
+        .editor-ui {
+            width: 80%;
+            min-height: 600px;
+            margin: auto;
+            margin-top: 60px;
+            background: #f1f1f1;
+            box-shadow: 0px 0px 2px 0px #818181;
+
+            .controll {
+                width: 100%;
+                margin: 20px auto;
+                padding: 20px;
+                background-color: white;
+                border-radius: 0 0 15px 15px;
+            }
+        }
+    }
+}
